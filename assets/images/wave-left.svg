@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 129 368" style="enable-background:new 0 0 129 368;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#wave_00000137113168463671518710000004765315955861136029_);}
+	
+		.st1{opacity:0.228;fill-rule:evenodd;clip-rule:evenodd;fill:url(#wave_00000056419322476321691830000002721299419566369964_);enable-background:new    ;}
+</style>
+<g id="Ressources">
+	<g id="moutain_x2F_element_x2F_wave_x2F_wave-left">
+		
+			<g id="Wave" transform="translate(15.000000, 192.500000) scale(-1, 1) translate(-15.000000, -192.500000) translate(-117.000000, 1.000000)">
+			
+				<linearGradient id="wave_00000142875166174437888330000010832515039853835194_" gradientUnits="userSpaceOnUse" x1="434.7183" y1="433.0855" x2="434.7183" y2="432.0855" gradientTransform="matrix(151.0398 -64.1126 -111.2313 -262.0444 -17410.623 141446.4844)">
+				<stop  offset="0" style="stop-color:#BF4545"/>
+				<stop  offset="1" style="stop-color:#00823B"/>
+			</linearGradient>
+			
+				<path id="wave" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#wave_00000142875166174437888330000010832515039853835194_);" d="
+				M152,55.9c-49.7,30-93,59.6-108.7,79.7c-31.4,40.2-5.8,104,107.9,230C151.5,243.5,151,150.5,152,55.9z"/>
+			
+				<linearGradient id="wave_00000089557476337984406330000017790024629640632744_" gradientUnits="userSpaceOnUse" x1="431.8799" y1="433.2956" x2="431.8799" y2="432.2956" gradientTransform="matrix(58.2462 -24.7241 -52.5054 -123.6949 -2282.3411 64286.7344)">
+				<stop  offset="0" style="stop-color:#0D66F3"/>
+				<stop  offset="1" style="stop-color:#4356BF"/>
+			</linearGradient>
+			
+				<path id="wave_00000033344010877950991120000010729053839267865006_" style="opacity:0.228;fill-rule:evenodd;clip-rule:evenodd;fill:url(#wave_00000089557476337984406330000017790024629640632744_);enable-background:new    ;" d="
+				M151.8,0.1c-10.3,8.3-18.4,15.9-23.5,22.4c-21,26.9-16.5,64.3,22.8,123.9C152,101.5,151,49.5,151.8,0.1z"/>
+		</g>
+	</g>
+</g>
+</svg>

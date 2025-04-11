@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1300 499" style="enable-background:new 0 0 1300 499;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.15;fill-rule:evenodd;clip-rule:evenodd;fill:#C4C4C4;enable-background:new    ;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Wave_00000039117556169913638630000002386815091200955315_);}
+</style>
+<g id="Ressource">
+	<g id="wave_background">
+		<g id="Group-4">
+			<path id="Wave" class="st0" d="M0,0h1300c-0.2,99.1-0.2,259,0,479.9c-360.6,42.3-321.1-40.2-650-29s-343.4,60.2-650,0
+				C1,327.5,1,177.2,0,0z"/>
+			
+				<radialGradient id="Wave_00000171683804318027593440000011724266024847772817_" cx="-27" cy="229.8976" r="1302.0061" gradientUnits="userSpaceOnUse">
+				<stop  offset="6.005161e-02" style="stop-color:#00823B"/>
+				<stop  offset="1" style="stop-color:#BF4545"/>
+			</radialGradient>
+			
+				<path id="Wave_00000122680746371240428950000004527131342341619344_" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#Wave_00000171683804318027593440000011724266024847772817_);" d="
+				M1302,0H377.3H1c0,224,0,366.8,0,428.7c80.4-11.9,154.2-29.3,343.7-11.9s256.5,87,532,21c183.7-44,325.4-40.8,425.3,9.7V0z"/>
+		</g>
+	</g>
+</g>
+</svg>
